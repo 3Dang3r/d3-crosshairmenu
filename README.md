@@ -29,6 +29,3 @@ Welcome to d3-Crosshair — the sleek, modern, and fully customizable crosshair 
  - FiveM Server running fxserver
 
  - Supports any modern browser-based NUI (No external dependencies)
-
-🎨 Customize It!
-Want to tweak the styles or add new features? The UI code is clean and easy to modify — jump into the html/ folder and make it yours! 💻✨
