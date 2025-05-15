@@ -1,4 +1,4 @@
-# 🎯 Custom Crosshair UI for FiveM
+![image](https://github.com/user-attachments/assets/d89ff781-1862-4f7c-8b41-51a08a044df8)# 🎯 Custom Crosshair UI for FiveM
 Welcome to d3-Crosshair — the sleek, modern, and fully customizable crosshair UI for your FiveM server! 🚀✨
 
 ## 🔥 Features
@@ -14,7 +14,7 @@ Welcome to d3-Crosshair — the sleek, modern, and fully customizable crosshair 
 
 ## 🖥️ Previews
 
- = [Main Menu](![image](https://github.com/user-attachments/assets/c72f6b82-71da-4935-8c6b-5d07454f0b9e))
+ - [Menu](![image](https://github.com/user-attachments/assets/36cbd01a-2423-468c-bc40-f35739a7cdf0))
  - [Custom Crosshair Menu](https://cdn.discordapp.com/attachments/1247863720366051348/1372404579295039589/image.png?ex=6826a6dd&is=6825555d&hm=6af07494fc6de3d6ebe304be6b1fbc65e52b9ce740792497a1aa98765aa35371&)
 
 ## 🚀 How to Use
