@@ -1,5 +1,5 @@
 # 🎯 Custom Crosshair UI for FiveM
-Welcome to d3-Crosshair — the sleek, modern, and fully customizable crosshair UI for your FiveM server! 🚀✨
+Welcome to d3-crosshairmenu — the sleek, modern, and fully customizable crosshair UI for your FiveM server! 🚀✨
 
 ## 🔥 Features
  - 🎨 Custom Crosshair Image: Use any image URL (PNG/JPG/JPEG) to set your personalized crosshair
