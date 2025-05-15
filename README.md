@@ -24,8 +24,6 @@ Welcome to d3-crosshairmenu — the sleek, modern, and fully customizable crossh
 
  - Use the /crosshair command in-game to open the settings menu
 
- - Choose between Default Crosshair or Custom Crosshair
-
  - For custom crosshairs, enter the image URL and adjust the size slider
 
  - Hit Confirm and enjoy your new aim style! 🎯
