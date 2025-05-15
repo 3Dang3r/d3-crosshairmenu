@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Crosshair Settings</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container" id="menu" style="display:none;">
+        <div class="header">
+            <span>Crosshair Settings</span>
+            <button class="close" onclick="closeMenu()">×</button>
+        </div>
+        <div class="option" onclick="openCustomMenu()">
+            <strong>Custom Crosshair</strong>
+            <p>Customize your crosshair to your liking.</p>
+        </div>
+        <div class="option" onclick="setCustom(false)">
+            <strong>Default Crosshair</strong>
+            <p>Reset your crosshair to the default settings.</p>
+        </div>
+    </div>
+
+    <div class="container" id="customMenu" style="display:none;">
+        <div class="header">
+            <span>Custom Crosshair</span>
+            <button class="close" onclick="backToMainMenu()">×</button>
+        </div>
+        <div>
+            <label for="imageUrl">Image URL (PNG, JPG, JPEG)</label>
+            <input type="text" id="imageUrl" placeholder="https://example.com/crosshair.png" />
+        </div>
+        <div>
+            <label for="sizeRange">Size (1-10, default 3)</label>
+            <input type="range" id="sizeRange" min="1" max="10" value="3" />
+        </div>
+        <div>
+            <button onclick="confirmCustom()">Confirm</button>
+        </div>
+    </div>
+
+    <img id="crosshairImg" src="" alt="Crosshair" style="display:none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; z-index: 9999;" />
+
+    <script src="script.js"></script>
+</body>
+</html>
