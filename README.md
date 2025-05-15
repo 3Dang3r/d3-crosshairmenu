@@ -12,6 +12,11 @@ Welcome to d3-Crosshair — the sleek, modern, and fully customizable crosshair 
 
  - ⚡ Instant Preview: See your crosshair update live as you adjust settings
 
+## 🖥️ Previews
+
+ = [Main Menu](![image](https://github.com/user-attachments/assets/c72f6b82-71da-4935-8c6b-5d07454f0b9e))
+ - [Custom Crosshair Menu](https://cdn.discordapp.com/attachments/1247863720366051348/1372404579295039589/image.png?ex=6826a6dd&is=6825555d&hm=6af07494fc6de3d6ebe304be6b1fbc65e52b9ce740792497a1aa98765aa35371&)
+
 ## 🚀 How to Use
  - Install the resource in your resources folder
 
