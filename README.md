@@ -14,8 +14,8 @@ Welcome to d3-crosshairmenu — the sleek, modern, and fully customizable crossh
 
 ## 🖥️ Previews
 
- - [Main Menu](https://cdn.discordapp.com/attachments/1247863720366051348/1372404487666401330/image.png?ex=6826a6c7&is=68255547&hm=9e19d48f92b2e3454cd17aba18e67d1cded9579869e4ffdd0dbc33b0c11648e3&)
- - [Custom Crosshair Menu](https://cdn.discordapp.com/attachments/1247863720366051348/1372404579295039589/image.png?ex=6826a6dd&is=6825555d&hm=6af07494fc6de3d6ebe304be6b1fbc65e52b9ce740792497a1aa98765aa35371&)
+ - [Main Menu](https://imgur.com/a/EGTDXHC)
+ - [Custom Crosshair Menu](https://imgur.com/a/hQlZrqm)
 
 ## 🚀 How to Use
  - Install the resource in your resources folder
