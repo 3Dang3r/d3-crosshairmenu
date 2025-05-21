@@ -22,7 +22,7 @@ Welcome to d3-crosshairmenu — the sleek, modern, and fully customizable crossh
 
  - Add start `d3-crosshair` in your server.cfg
 
- - Use the /crosshair command in-game to open the settings menu
+ - Use the `/crosshair` command in-game to open the settings menu
 
  - For custom crosshairs, enter the image URL and adjust the size slider
 
